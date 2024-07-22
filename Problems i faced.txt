@@ -1,0 +1,7 @@
+1.Let's download our models but remember we need only the features because we are not doing any classification so no need to download classifier part.
+2.Don't forget to freeze all the parameters of vgg19 so that we don't update the weights3.
+3.Alpha channel 
+
+
+No need to update weights of model . Update the pixels of the image.
+inputs of different aspect ratios .
